@@ -4,4 +4,4 @@ Sistem manajemen warnet modern yang dibangun menggunakan Laravel murni untuk kep
 
 # Screenshot
 
-...
+<img width="1920" height="1080" alt="Screenshot (673)" src="https://github.com/user-attachments/assets/cf17beb0-ed35-4f2d-971d-c47dca73b8a7" />
